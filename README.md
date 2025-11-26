@@ -2,7 +2,7 @@
 ## Senior AI Engineer | AI Researcher
 
 📧 **Email:** wabandawu@gmail.com | 📞 **Phone:** +233 542 015 688  
-🔗 **LinkedIn:** [Waliyyullah Bandawu](www.linkedin.com/in/waliyyullah-bandawu-4b5770151)
+🔗 **LinkedIn:** [Waliyyullah Bandawu](https://www.linkedin.com/in/waliyyullah-bandawu-4b5770151)
 
 ---
 
