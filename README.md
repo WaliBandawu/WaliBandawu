@@ -163,7 +163,7 @@ AI and ML specialist with a Master's in Computer Science, bringing deep expertis
 | Degree | Institution | Duration | Status |
 |--------|-------------|----------|--------|
 | **Master's in Computer Science** | University of Ghana | Jan 2023 - Aug 2024 | ✅ Completed |
-| **Certificate in Data Science Administration** | University of Ghana | Nov 2022 - Present | 🔄 In Progress |
+| **Certificate in Data Science Administration** | University of Ghana | Nov 2022 - Present | ✅ Completed |
 | **Bachelor's in Materials Engineering** | University of Ghana | 2014 - 2018 | ✅ Completed |
 
 ---
