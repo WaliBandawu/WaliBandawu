@@ -71,7 +71,7 @@ AI and ML specialist with a Master's in Computer Science, bringing deep expertis
 **Tech Stack:** Python, FastAPI, PyTorch, TensorFlow, AWS, Docker, Kubernetes, Redis
 
 ### Tech Mentor
-**WeCode** · *Feb 2025 – Present* (5 mos)
+**WeCode** · *Feb 2025 – Present*
 
 **Responsibilities:**
 - 👨‍🏫 Guide aspiring technologists through upskilling programs in **AI/ML, Backend Engineering**, and **LLM Application Development**
@@ -80,7 +80,7 @@ AI and ML specialist with a Master's in Computer Science, bringing deep expertis
 - 💼 Mentor 10+ students with hands-on projects and code reviews
 
 ### Research Assistant
-**Data Intelligence and Swarm Analytics Laboratory** · *Sep 2022 – Present* (2 yrs 10 mos)
+**Data Intelligence and Swarm Analytics Laboratory** · *Sep 2022 – Present*
 
 **Focus Areas:**
 - 🐝 Applied AI research focusing on **swarm intelligence, time-series modeling**, and medical signal interpretation
