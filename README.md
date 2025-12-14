@@ -58,7 +58,7 @@ AI and ML specialist with a Master's in Computer Science, bringing deep expertis
 ## 💼 RELEVANT EXPERIENCE
 
 ### Full-Stack AI Engineer
-**Really Great Tech** · *Aug 2023 – Present* (1 yr 11 mos)
+**Really Great Tech** · *Aug 2023 – Present *
 
 **Key Achievements:**
 - 🚀 Developed and deployed deep learning models for disease detection using PPG signals, leveraging **CNNs, LSTMs**, and real-time stream inference pipelines
